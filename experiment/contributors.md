@@ -1,7 +1,9 @@
+EMPTY
+<!-- Remove all lines above this line before making changes to the file -->
 ### Subject Matter Experts
-| SNo. | Name | Institute | 
-| :---: | :---: | :---: | 
-| 1 | Prof. Charu Monga | Media Tech Lab, Department of Design, IIT Delhi |
+| SNo. | Name | Email | Institute | ID |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | name | email | institute | id |
 
 ### Developers
 | SNo. | Name | Email | Institute | ID |
