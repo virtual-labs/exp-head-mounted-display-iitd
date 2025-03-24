@@ -2,12 +2,11 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the purpose of adjusting the interpupillary distance (IPD) on your VR headset?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To match the distance between your eyes for better visual clarity.",
+        "b": "To reduce motion sickness during gameplay.",
+        "c": "To set the play area boundary automatically."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +18,11 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following methods improves tracking accuracy in a PC-connected VR headset?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Using additional external sensors or base stations.",
+        "b": "Increasing the screen brightness on the headset.",
+        "c": "Turning off all nearby wireless devices."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +30,23 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When using a wireless adapter for a VR headset, what is the primary requirement for smooth performance?",
+      "answers": {
+        "a": "A high-speed Wi-Fi connection with low latency.",
+        "b": "A direct USB-C connection to the PC.",
+        "c": "A room with minimal light for better tracking."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
