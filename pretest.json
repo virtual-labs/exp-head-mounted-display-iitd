@@ -1,0 +1,35 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "How do you connect your standalone VR headset to Wi-Fi?",
+      "answers": {
+        "a": "Use the companion app on your smartphone to connect.",
+        "b": "Follow the on-screen instructions in the headset to connect to Wi-Fi.",
+        "c": "Plug the headset into your PC to configure the connection."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What should you do to set up a play area for room-scale VR?",
+      "answers": {
+        "a": "Clear the area of obstacles and use the controllers to define a boundary.",
+        "b": "Sit down and let the headset automatically create a boundary.",
+        "c": "Walk around the room until the headset maps it for you."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How do you pair your VR controllers with the headset?",
+      "answers": {
+        "a": "Turn on the controllers, and they will pair automatically or follow pairing instructions.",
+        "b": "Plug the controllers into the headset using a USB cable.",
+        "c": "Download a separate app to pair the controllers." 
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

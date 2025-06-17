@@ -1,0 +1,35 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the purpose of adjusting the interpupillary distance (IPD) on your VR headset?",
+      "answers": {
+        "a": "To match the distance between your eyes for better visual clarity.",
+        "b": "To reduce motion sickness during gameplay.",
+        "c": "To set the play area boundary automatically."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following methods improves tracking accuracy in a PC-connected VR headset?",
+      "answers": {
+        "a": "Using additional external sensors or base stations.",
+        "b": "Increasing the screen brightness on the headset.",
+        "c": "Turning off all nearby wireless devices."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When using a wireless adapter for a VR headset, what is the primary requirement for smooth performance?",
+      "answers": {
+        "a": "A high-speed Wi-Fi connection with low latency.",
+        "b": "A direct USB-C connection to the PC.",
+        "c": "A room with minimal light for better tracking."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
