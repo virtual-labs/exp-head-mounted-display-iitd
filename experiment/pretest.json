@@ -30,6 +30,28 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is commonly used as an input connection for VR headsets?",
+      "answers": {
+        "a": "HDMI or DisplayPort",
+        "b": "Printer cable",
+        "c": "Gas pipe connection",
+        "d": "Antenna cable"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The audio output of most VR headsets is delivered through:",
+      "answers": {
+        "a": "Built-in or external headphones",
+        "b": "Keyboard speakers",
+        "c": "Monitor speakers only",
+        "d": "Projector system"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
   ]
 }
